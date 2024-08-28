@@ -1,0 +1,12 @@
+{
+  "name": "asgcomponentlibrary",
+  "version": "1.0.0",
+  "main": "dist/asgcomponentlibrary/fesm5/asgcomponentlibrary.js",
+  "module": "dist/asgcomponentlibrary/fesm2015/asgcomponentlibrary.js",
+  "typings": "dist/asgcomponentlibrary/asgcomponentlibrary.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^14.0.0",
+    "@angular/common": "^14.0.0",
+    "@angular/forms": "^14.0.0"
+  }
+}
