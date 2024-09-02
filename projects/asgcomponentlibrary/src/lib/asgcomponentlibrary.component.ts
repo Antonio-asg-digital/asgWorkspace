@@ -9,7 +9,7 @@ import { Component } from '@angular/core';
       asgcomponentlibrary works!
     </p>
   `,
-  styles: ``
+  styles: []
 })
 export class AsgcomponentlibraryComponent {
 
